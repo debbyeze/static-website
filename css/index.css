@@ -29,12 +29,21 @@ a{
  text-decoration: none;
  color: black;
 }
+a:hover{
+  color: blue;
+}
 ul{
  display: flex;
  justify-content: flex-end;
 }
 div{
   padding: 20px;
+}
+details{
+ color:blue;
+}
+summary{
+ color: grey;
 }
 main{
  height: 89vh;
